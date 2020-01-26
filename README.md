@@ -7,10 +7,11 @@
 
 A dynamic password checker using javascript / Ajax.
 
-- Invalid password example
+<hr>
+# Invalid password example
 
 ![alt example-errors](invalid.png)
 
-- Valid password example
+# Valid password example
 
 ![alt example-errors](valid.png)
