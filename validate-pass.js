@@ -1,4 +1,4 @@
-/*Actual validation function*/
+/*Actual validation function developed by KadarH*/
       function ValidatePassword() {
         /*Array of rules and the information target*/
         var rules = [
