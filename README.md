@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://www.nic.lat/wp-content/uploads/2019/01/password-big.png" width="200" alt="TruckMe Logo" />
+<img src="password-big.png" width="200" alt="TruckMe Logo" />
 <h2>Password Checker</h2>
 
 </div>
