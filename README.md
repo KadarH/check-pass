@@ -8,6 +8,7 @@
 A dynamic password checker using javascript / Ajax.
 
 <hr>
+
 # Invalid password example
 
 ![alt example-errors](invalid.png)
