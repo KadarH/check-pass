@@ -5,8 +5,6 @@
 
 </div>
 
----
-
 A dynamic password checker using javascript / Ajax.
 
 - Invalid password example
