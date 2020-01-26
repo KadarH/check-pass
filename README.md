@@ -1,2 +1,3 @@
-# check-pass
-A dynamic password checker using javascript / Ajax 
+# Password Checker
+
+A dynamic password checker using javascript / Ajax.
